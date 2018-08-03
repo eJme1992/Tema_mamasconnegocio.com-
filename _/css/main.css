@@ -1,0 +1,33 @@
+.h3, h3 {font-size:20px !important;}
+#home  {max-width:101%;}
+#home .encabezado {-webkit-background-size: cover; background-size: cover;}
+#home .encabezadofondo {background-color: rgba(122, 99, 128, 0.9); color:#fff; min-height:730px; }
+#home .servicios{width:100%}
+#home .opinion h3 span{ font-size: 15vmin; }
+#home .opinion { background-color:#D5D3D6; width:100%; }
+#home .sombra {
+    color: #000000;
+    min-height:630px; 
+    margin-top:150px;
+    -webkit-box-shadow: 4px 4px 24px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 4px 24px 5px rgba(0,0,0,0.75);
+    box-shadow: 4px 4px 24px 5px rgba(0,0,0,0.75);
+}
+#home .texto{font-size:16px;}
+#home .sombra h4{color:#7F4AA4; }
+#home .sombra h4 span {color:#7F4AA4;}
+#home .w-body {font-size:14px;}
+#home  input {padding-top:5px;margin-top:5%;}
+#home .form-control  {padding-top:5px;margin-top:5%; height:45px;}
+#home .form-control:hover {border-color:#7F4AA4;}
+#home .btn {background-color:#7F4AA4; color:#fff;  height:40px; width:90%; margin-top:20px;}
+
+#home .logo-top {text-align:center;}
+#home .logo-top img {max-width: 250px;text-align: center;margin: 0 auto;display: block;padding:10px 0px;}
+
+#home .slider-slick {padding:20px 0px;font-size:20px;}
+
+#servicios-sec {padding:20px 0px;}
+
+#footer {background-color:#7F48A5; color:#fff;}
+#footer .text-center{padding-top:26px; padding-bottom:26px;}
